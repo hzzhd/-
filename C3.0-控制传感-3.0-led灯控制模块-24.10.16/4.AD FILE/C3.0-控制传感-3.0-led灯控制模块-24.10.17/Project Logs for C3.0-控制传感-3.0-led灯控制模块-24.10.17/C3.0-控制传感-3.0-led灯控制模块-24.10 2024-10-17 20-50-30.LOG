@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=H1-3
+Removed Pin From Net: NetName=VCC Pin=LED3-2
+Added Pin To Net: NetName=VCC Pin=LED3-1
+Added Pin To Net: NetName=VCC Pin=R1-3
+Added Pin To Net: NetName=NetH1_3 Pin=H1-3
+Added Pin To Net: NetName=NetH1_3 Pin=LED3-2
+Added Net: Name=NetH1_3
+Added Room: Name=C3.0-控制传感-3.0-led灯控制模块-24.10.17

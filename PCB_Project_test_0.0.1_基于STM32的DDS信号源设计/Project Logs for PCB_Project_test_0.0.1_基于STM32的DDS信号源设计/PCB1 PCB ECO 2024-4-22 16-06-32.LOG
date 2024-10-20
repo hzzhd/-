@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+5 Pin=R7-1
+Change Net Name : Old Net Name=USB-D-P New Net Name=USB-D-P
+Added Member To Class: ClassName=Sheet1 Member=Component C18 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component R12 Res2

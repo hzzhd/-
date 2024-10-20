@@ -1,0 +1,30 @@
+Added Component: Designator=H1(HDR-TH_4P-P2.54-V-M)
+Added Component: Designator=LED1(LED0603-RD_BLUE)
+Added Component: Designator=LED2(LED0603-RD_GREEN)
+Added Component: Designator=R1(RES-ADJ-TH_3P-L9.5-W4.9-P2.50-L_3296W)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=U1(LED0603-RD_WHITE)
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=LED Pin=H1-1
+Added Pin To Net: NetName=LED Pin=LED2-1
+Added Net: Name=LED
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R2-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetR1_3 Pin=R1-3
+Added Pin To Net: NetName=NetR1_3 Pin=U1-1
+Added Net: Name=NetR1_3
+Added Pin To Net: NetName=R-ADC Pin=H1-2
+Added Pin To Net: NetName=R-ADC Pin=LED1-1
+Added Net: Name=R-ADC
+Added Pin To Net: NetName=VCC Pin=H1-3
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=U1-2
+Added Net: Name=VCC
+Added Class: Name=C3.0-控制传感-3.0-led灯控制模块-24.10.17
+Added Room: Name=C3.0-控制传感-3.0-led灯控制模块-24.10.17

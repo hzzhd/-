@@ -1,0 +1,17 @@
+Added Component: Designator=D1(SOD-123FL_L2.8-W1.8-LS3.7-RD)
+Added Component: Designator=D2(SOD-123FL_L2.8-W1.8-LS3.7-RD)
+Added Component: Designator=D3(SOD-123FL_L2.8-W1.8-LS3.7-RD)
+Added Component: Designator=D4(SOD-123FL_L2.8-W1.8-LS3.7-RD)
+Added Pin To Net: NetName=12L Pin=D1-1
+Added Pin To Net: NetName=12N- Pin=D1-2
+Added Pin To Net: NetName=12L+ Pin=D2-1
+Added Pin To Net: NetName=12L Pin=D2-2
+Added Pin To Net: NetName=12N Pin=D3-1
+Added Pin To Net: NetName=12N- Pin=D3-2
+Added Pin To Net: NetName=12L+ Pin=D4-1
+Added Pin To Net: NetName=12N Pin=D4-2
+Added Member To Class: ClassName=A1.0-电源-1.0-简易电源220V转12V Member=Component D1 1N4007 A7
+Added Member To Class: ClassName=A1.0-电源-1.0-简易电源220V转12V Member=Component D2 1N4007 A7
+Added Member To Class: ClassName=A1.0-电源-1.0-简易电源220V转12V Member=Component D3 1N4007 A7
+Added Member To Class: ClassName=A1.0-电源-1.0-简易电源220V转12V Member=Component D4 1N4007 A7
+Added Room: Name=A1.0-电源-1.0-简易电源220V转12V

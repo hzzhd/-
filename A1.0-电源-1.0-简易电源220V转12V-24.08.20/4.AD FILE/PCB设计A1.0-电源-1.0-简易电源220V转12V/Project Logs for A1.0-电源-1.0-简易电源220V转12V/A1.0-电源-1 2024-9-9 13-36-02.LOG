@@ -1,0 +1,58 @@
+Added Component: Designator=C1(CAP-TH_L18.0-W8.5-P15.00-D0.8)
+Added Component: Designator=C2(CAP-TH_L18.0-W6.0-P15.00-D0.8)
+Added Component: Designator=C3(CAP-SMD_BD10.0-L10.3-W10.3-LS11.0-R-RD)
+Added Component: Designator=D1(SMA_L4.3-W2.5-LS5.0-RD)
+Added Component: Designator=D2(SMA_L4.3-W2.5-LS5.0-RD)
+Added Component: Designator=D3(SMA_L4.3-W2.5-LS5.0-RD)
+Added Component: Designator=D4(SMA_L4.3-W2.5-LS5.0-RD)
+Added Component: Designator=D5(SMAF_L3.5-W2.6-LS4.7-RD)
+Added Component: Designator=F1(FUSE-TH_L24.5-W9.8-P22.5)
+Added Component: Designator=M1(220v-12v)
+Added Component: Designator=Q1(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Added Component: Designator=R1(RES-TH_L12.5-W6.7-P7.50-D1.2)
+Added Component: Designator=R2(R0805)
+Added Component: Designator=R3(R0805)
+Added Component: Designator=U1(RES-TH_L22.0-W10.0-P26.00-D1.0)
+Added Pin To Net: NetName=12+_OUT Pin=Q1-2
+Added Pin To Net: NetName=12+_OUT Pin=R3-1
+Added Net: Name=12+_OUT
+Added Pin To Net: NetName=12+ Pin=C3-1
+Added Pin To Net: NetName=12+ Pin=Q1-3
+Added Pin To Net: NetName=12+ Pin=R2-2
+Added Pin To Net: NetName=12+ Pin=U1-2
+Added Net: Name=12+
+Added Pin To Net: NetName=12- Pin=C3-2
+Added Pin To Net: NetName=12- Pin=D1-2
+Added Pin To Net: NetName=12- Pin=D3-2
+Added Pin To Net: NetName=12- Pin=D5-2
+Added Pin To Net: NetName=12- Pin=R3-2
+Added Net: Name=12-
+Added Pin To Net: NetName=12L+ Pin=D2-1
+Added Pin To Net: NetName=12L+ Pin=D4-1
+Added Pin To Net: NetName=12L+ Pin=U1-1
+Added Net: Name=12L+
+Added Pin To Net: NetName=12L Pin=D1-1
+Added Pin To Net: NetName=12L Pin=D2-2
+Added Pin To Net: NetName=12L Pin=M1-3
+Added Net: Name=12L
+Added Pin To Net: NetName=12N Pin=D3-1
+Added Pin To Net: NetName=12N Pin=D4-2
+Added Pin To Net: NetName=12N Pin=M1-4
+Added Net: Name=12N
+Added Pin To Net: NetName=L_OUT Pin=C1-2
+Added Pin To Net: NetName=L_OUT Pin=C2-2
+Added Pin To Net: NetName=L_OUT Pin=F1-2
+Added Pin To Net: NetName=L_OUT Pin=M1-1
+Added Pin To Net: NetName=L_OUT Pin=R1-2
+Added Net: Name=L_OUT
+Added Pin To Net: NetName=N_OUT Pin=C1-1
+Added Pin To Net: NetName=N_OUT Pin=C2-1
+Added Pin To Net: NetName=N_OUT Pin=M1-2
+Added Pin To Net: NetName=N_OUT Pin=R1-1
+Added Net: Name=N_OUT
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD5_1 Pin=R2-1
+Added Net: Name=NetD5_1
+Added Class: Name=A1.0-电源-1.0-简易电源220V转12V
+Added Room: Name=A1.0-电源-1.0-简易电源220V转12V

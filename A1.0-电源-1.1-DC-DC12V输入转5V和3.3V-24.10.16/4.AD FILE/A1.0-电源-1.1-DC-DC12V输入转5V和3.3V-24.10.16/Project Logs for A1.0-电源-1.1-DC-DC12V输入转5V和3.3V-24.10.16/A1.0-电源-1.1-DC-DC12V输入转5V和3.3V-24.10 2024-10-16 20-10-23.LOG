@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=12V Pin=SW1-1
+Removed Pin From Net: NetName=12V Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Removed Pin From Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=12V Pin=SW1-4
+Added Pin To Net: NetName=12V Pin=SW1-5
+Added Room: Name=A1.0-电源-1.1-DC-DC12V输入转5V和3.3V-24.10.16

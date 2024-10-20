@@ -1,0 +1,76 @@
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C2(C0603)
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C4(C0603)
+Added Component: Designator=D1(SMA_L4.3-W2.6-LS5.2-RD)
+Added Component: Designator=DC1(DC-IN-TH_DC005)
+Added Component: Designator=H1(HDR-TH_4P-P2.54-V-M)
+Added Component: Designator=H2(HDR-TH_4P-P2.54-V-M)
+Added Component: Designator=H3(HDR-TH_4P-P2.54-V-M)
+Added Component: Designator=H4(HDR-TH_4P-P2.54-V-M)
+Added Component: Designator=L1(IND-SMD_L11.5-W10.0_FXL1040)
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R3(R0603)
+Added Component: Designator=SW1(SW-TH_6P-L7.0-W7.0-P2.00)
+Added Component: Designator=U1(SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR)
+Added Component: Designator=U2(SOT-223-4_L6.5-W3.5-P2.30-LS7.0-TR)
+Added Pin To Net: NetName=3.3V Pin=H4-1
+Added Pin To Net: NetName=3.3V Pin=H4-2
+Added Pin To Net: NetName=3.3V Pin=H4-3
+Added Pin To Net: NetName=3.3V Pin=H4-4
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=5V Pin=H2-1
+Added Pin To Net: NetName=5V Pin=H2-2
+Added Pin To Net: NetName=5V Pin=H2-3
+Added Pin To Net: NetName=5V Pin=H2-4
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=C1-2
+Added Pin To Net: NetName=12V Pin=DC1-1
+Added Pin To Net: NetName=12V Pin=H1-1
+Added Pin To Net: NetName=12V Pin=H1-2
+Added Pin To Net: NetName=12V Pin=H1-3
+Added Pin To Net: NetName=12V Pin=H1-4
+Added Pin To Net: NetName=12V Pin=R1-1
+Added Pin To Net: NetName=12V Pin=SW1-1
+Added Pin To Net: NetName=12V Pin=SW1-2
+Added Pin To Net: NetName=12V Pin=U1-5
+Added Net: Name=12V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=DC1-2
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H3-3
+Added Pin To Net: NetName=GND Pin=H3-4
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW1-5
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D1-1
+Added Pin To Net: NetName=NetC2_1 Pin=L1-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-6
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-3
+Added Net: Name=NetR2_1
+Added Class: Name=A1.0-电源-1.1-DC-DC12V输入转5V和3.3V-24.10.16
+Added Room: Name=A1.0-电源-1.1-DC-DC12V输入转5V和3.3V-24.10.16

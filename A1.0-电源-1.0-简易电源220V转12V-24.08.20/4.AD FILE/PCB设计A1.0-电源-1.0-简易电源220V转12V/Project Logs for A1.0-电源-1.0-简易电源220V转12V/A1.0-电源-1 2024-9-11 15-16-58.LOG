@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=12N- Pin=H1-1
+Removed Pin From Net: NetName=12N- Pin=H1-2
+Removed Pin From Net: NetName=12N- Pin=H1-3
+Removed Pin From Net: NetName=12N- Pin=H1-4
+Added Component: Designator=K1(方形/白灯/自锁/220V)
+Added Component: Designator=R4(R0805)
+Added Pin To Net: NetName=N_OUT Pin=K1-LED_N
+Added Pin To Net: NetName=12N- Pin=R4-2
+Change Net Name : Old Net Name=12N- New Net Name=12-
+Change Net Name : Old Net Name=N_OUT New Net Name=N_IN
+Added Pin To Net: NetName=12-OUT Pin=H1-1
+Added Pin To Net: NetName=12-OUT Pin=H1-2
+Added Pin To Net: NetName=12-OUT Pin=H1-3
+Added Pin To Net: NetName=12-OUT Pin=H1-4
+Added Net: Name=12-OUT
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=L_IN Pin=K1-NO
+Added Net: Name=L_IN
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=K1-C
+Added Pin To Net: NetName=NetF1_1 Pin=K1-LED_L
+Added Net: Name=NetF1_1
+Added Member To Class: ClassName=A1.0-电源-1.0-简易电源220V转12V Member=Component K1 方形/白灯/自锁/220V
+Added Member To Class: ClassName=A1.0-电源-1.0-简易电源220V转12V Member=Component R4 10kΩ
+Added Room: Name=A1.0-电源-1.0-简易电源220V转12V

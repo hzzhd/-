@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=3.3V Pin=C4-2
+Removed Member From Class: ClassName=B2.0-主板-2.0-stm32c8t6最小系统板-24.10.17 Member=C4
+Added Room: Name=B2.0-主板-2.0-stm32c8t6最小系统板-24.10.17

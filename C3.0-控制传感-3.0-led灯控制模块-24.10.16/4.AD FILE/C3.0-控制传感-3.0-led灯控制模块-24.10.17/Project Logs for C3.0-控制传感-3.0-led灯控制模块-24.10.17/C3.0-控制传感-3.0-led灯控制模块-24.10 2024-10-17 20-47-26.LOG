@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=LED3
+Change Net Name : Old Net Name=NetR1_3 New Net Name=NetLED3_1
+Added Room: Name=C3.0-控制传感-3.0-led灯控制模块-24.10.17

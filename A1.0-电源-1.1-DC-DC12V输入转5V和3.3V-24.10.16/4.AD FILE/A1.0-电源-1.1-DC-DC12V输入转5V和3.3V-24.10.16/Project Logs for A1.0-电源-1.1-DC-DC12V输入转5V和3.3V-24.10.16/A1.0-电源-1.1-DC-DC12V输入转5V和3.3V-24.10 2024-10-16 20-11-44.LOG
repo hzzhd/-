@@ -1,0 +1,7 @@
+Added Component: Designator=SW1(SW-TH_6P-L7.0-W7.0-P2.00)
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=12V Pin=SW1-4
+Added Pin To Net: NetName=12V Pin=SW1-5
+Added Member To Class: ClassName=A1.0-电源-1.1-DC-DC12V输入转5V和3.3V-24.10.16 Member=Component SW1 XKB7070-Z
+Added Room: Name=A1.0-电源-1.1-DC-DC12V输入转5V和3.3V-24.10.16
